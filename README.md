@@ -1,16 +1,15 @@
-### Hi there 👋
+### **Hi there, I'm [Nico](https://twitter.com/nicovel98)! 🔥🐉** 
+***
+###  About Me 💬
+🌳 I am a systems student who loves programming, reading and drawing, with a passion for the nature 🍏
+***
+### Projects/Repositories
++ [NextJS_Bootstrap_AppWeb](https://github.com/Nicovel98/bootstrap_nextjs)
++ [Page for Mangle Mi Huella Verde](https://github.com/Nicovel98/Mangle)
++ [Laberinto GGJ2021](https://github.com/Nicovel98/Laberinto)
+
+### Games
+[Laberinto for Global Game Jam 2021](https://nicovel98.github.io/Laberinto/index.html)
 
 
-**Nicovel98/nicovel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
